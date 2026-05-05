@@ -152,6 +152,7 @@ constexpr auto EmojiGroups = std::tuple<
         Unimoji<"sad_markus", 0x1c10e>,      Unimoji<"spike", 0x1c10f>,
         Unimoji<"steam_happy", 0x1c110>,     Unimoji<"trol", 0x1c111>,
         Unimoji<"trolley", 0x1c112>,         Unimoji<"alphablep", 0x1c113>,
+        Unimoji<"arcticwoof", 0x1c114>,
         // Animated
         Unimoji<"trolleyzoom", 0x1c60c, true>, Unimoji<"fishspin", 0x1c60d, true>,
         Unimoji<"muga", 0x1c60e, true>
